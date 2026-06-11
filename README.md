@@ -61,6 +61,19 @@ The following analyses were performed using SQL:
 
 ---
 
+## Dashboard Preview
+
+### Executive Dashboard
+![Executive Dashboard](Executive_Dashboard.png)
+
+### Product Performance Analysis
+![Product Performance Analysis](Product_Performance_Analysis.png)
+
+### Geographic Analysis
+![Geographic Analysis](Geographic_Analysis.png)
+
+---
+
 ## Key Business Insights
 
 - West region generated the highest sales among all regions.
